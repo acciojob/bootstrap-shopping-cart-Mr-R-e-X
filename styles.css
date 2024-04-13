@@ -17,7 +17,9 @@
     .block-heading {
       text-align: center;
     }
-
+.block-heading h2 {
+        text-align: start; /* Corrected alignment */
+      }
     .btn-summary {
       background-color: #3b99e0;
       color: white;
