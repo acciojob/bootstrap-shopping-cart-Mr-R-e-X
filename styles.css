@@ -17,7 +17,7 @@
     .block-heading {
       text-align: center;
     }
-.block-heading h2 {
+.block-heading{
         text-align: start; /* Corrected alignment */
       }
     .btn-summary {
