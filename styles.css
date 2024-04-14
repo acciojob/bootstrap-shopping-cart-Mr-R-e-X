@@ -14,11 +14,11 @@
       padding: 10px;
     }
 
-    .block-heading {
+    .block-heading p{
       text-align: center;
     }
 .block-heading{
-        text-align: start; /* Corrected alignment */
+        text-align: center; /* Corrected alignment */
       }
     .btn-summary {
       background-color: #3b99e0;
